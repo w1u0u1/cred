@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cred", "cred\cred.csproj", "{09DC705F-DFBD-4D03-A513-0412543DDD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DC705F-DFBD-4D03-A513-0412543DDD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DC705F-DFBD-4D03-A513-0412543DDD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DC705F-DFBD-4D03-A513-0412543DDD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DC705F-DFBD-4D03-A513-0412543DDD86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E58380-BCFF-492D-83A6-DE91653DA7BE}
+	EndGlobalSection
+EndGlobal
